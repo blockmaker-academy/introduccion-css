@@ -1,0 +1,17 @@
+/* Estilos para el contenedor */
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Estilos para los elementos de lista (li) */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-top: 10px;
+}

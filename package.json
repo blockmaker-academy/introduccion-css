@@ -1,0 +1,11 @@
+{
+  "name": "introduccion-css",
+  "version": "1.0.0",
+  "description": "Fundamentos CSS",
+  "keywords": [
+    "css",
+    "web development"
+  ],
+  "author": "Alex Muñoz <https://github.com/alexmf91>",
+  "license": "MIT"
+}

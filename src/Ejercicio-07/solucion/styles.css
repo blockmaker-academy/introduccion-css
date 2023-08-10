@@ -1,0 +1,16 @@
+/* Estilos para el contenedor */
+.box {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    /* Efecto de sombra alrededor del contenedor */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Estilos para el texto dentro del contenedor */
+  .box p {
+    /* Efecto de sombra al texto */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }

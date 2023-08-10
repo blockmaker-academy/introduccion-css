@@ -1,0 +1,59 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Estilos para la sección principal */
+.main-section {
+  padding: 40px;
+}
+
+/* Estilos para dispositivos móviles (ancho menor o igual a 768px) */
+@media screen and (max-width: 768px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  nav {
+    margin-top: 10px;
+  }
+}
+
+/* Estilos para dispositivos de pantalla grande (ancho mayor a 768px) */
+@media screen and (min-width: 769px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  nav {
+    margin: 0;
+  }
+}

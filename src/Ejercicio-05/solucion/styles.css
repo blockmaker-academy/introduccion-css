@@ -1,0 +1,41 @@
+/* Estilos para el contenedor */
+.grid-container {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 50px 50px 50px;
+}
+
+/* Estilos para las celdas de la cuadrícula */
+.grid-item {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Colores de fondo para cada celda */
+.grid-item:nth-child(1) {
+  background-color: lightblue;
+}
+.grid-item:nth-child(2) {
+  background-color: lightgreen;
+}
+.grid-item:nth-child(3) {
+  background-color: pink;
+}
+.grid-item:nth-child(4) {
+  background-color: lightyellow;
+}
+.grid-item:nth-child(5) {
+  background-color: lightcoral;
+}
+.grid-item:nth-child(6) {
+  background-color: lightsalmon;
+}
+.grid-item:nth-child(7) {
+  background-color: lightgray;
+}
+.grid-item:nth-child(8) {
+  background-color: lightcyan;
+}
+.grid-item:nth-child(9) {
+  background-color: lightskyblue;
+}

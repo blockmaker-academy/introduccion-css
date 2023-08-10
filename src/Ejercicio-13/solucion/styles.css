@@ -1,0 +1,118 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 50px 20px;
+}
+
+section h2 {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+/* Estilos para el formulario de contacto */
+form input,
+form textarea,
+form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Estilos para los proyectos en el portafolio */
+.project {
+  margin-bottom: 40px;
+}
+
+.project img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.project h3 {
+  margin: 10px 0;
+}
+
+/* Estilos para enlaces */
+a:hover {
+  color: #0056b3;
+}
+
+/* Estilos para la sección Acerca de mí */
+#about {
+  background-color: #f2f2f2;
+}
+
+/* Estilos para el formulario de contacto */
+#contact {
+  background-color: #f2f2f2;
+}
+
+/* Estilos responsivos */
+@media screen and (max-width: 768px) {
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  header {
+    padding: 10px;
+  }
+
+  section {
+    padding: 30px 10px;
+  }
+
+  form input,
+  form textarea,
+  form button {
+    margin-bottom: 10px;
+  }
+}
