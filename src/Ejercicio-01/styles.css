@@ -1,0 +1,39 @@
+p {
+  background-color: lightblue;
+}
+
+.destacado {
+  background-color: yellow;
+  border: 2px solid red;
+}
+
+#parrafo-grande {
+  font-size: 2rem;
+}
+
+.contenedor {
+  display: flex;
+  background-color: lightgreen;
+  border: 2px solid green;
+  justify-content: space-evenly;
+}
+
+.lista {
+  background-color: lightgray;
+  border: 2px solid gray;
+  padding: 5px;
+}
+
+.elemento {
+  background-color: lightblue;
+  border: 2px solid blue;
+  width: 200px;
+  margin: 10px;
+  padding: 5px;
+  font-size: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
