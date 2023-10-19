@@ -1,14 +1,12 @@
-/* Estilos para el primer párrafo */
 p {
-  background-color: lightblue;
+  background-color: rgb(81, 45, 81);
 }
 
-/* Estilos para el segundo párrafo con la clase "destacado" */
 .destacado {
-  border: 2px solid red;
+  border: 3px solid rgb(6, 6, 6);
 }
 
-/* Estilos para el párrafo con el ID "parrafo-grande" */
 #parrafo-grande {
   font-size: 24px;
-}
+  }
+

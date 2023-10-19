@@ -14,9 +14,9 @@ En este ejercicio, creamos un documento HTML con tres párrafos y aplicamos dife
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <p>Este párrafo tiene un color de fondo diferente.</p>
-    <p class="destacado">Este párrafo tiene un borde resaltado.</p>
-    <p id="parrafo-grande">Este párrafo tiene un tamaño de fuente más grande.</p>
+    <p>Que color tiene esto?.</p>
+    <p class="destacado">Donde esta el borde?.</p>
+    <p id="parrafo-grande">ESTO ESTA MAS GRANDE?.</p>
   </body>
 </html>
 ```

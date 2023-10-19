@@ -6,11 +6,11 @@
     border: 2px solid black;
     margin-bottom: 30px;
     /* Efecto de sombra alrededor del contenedor */
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 10px rgba(95, 2, 2, 0.253);
   }
   
   /* Estilos para el texto dentro del contenedor */
   .box p {
     /* Efecto de sombra al texto */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(57, 50, 123, 0.5);
   }
