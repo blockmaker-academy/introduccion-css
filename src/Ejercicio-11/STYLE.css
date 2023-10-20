@@ -1,0 +1,26 @@
+/* Estilos para el botón */
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: 5px color blue;
+  box-shadow: 10px color black;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #0056b3;
+}
+
+
+.link {
+  color: #e64db0;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+
+}
+.paragraph::first-line {
+  font-weight: bold;
+}

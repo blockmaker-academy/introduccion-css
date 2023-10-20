@@ -1,0 +1,12 @@
+p {
+    background-color: rgb(229, 133, 69);
+    border: 3px solid rgb(6, 6, 6);
+  }
+  
+  .destacado {
+    border: 3px solid rgb(6, 6, 6);
+  }
+  
+  #parrafo-grande {
+    font-size: 30px;border: 3px solid rgb(6, 6, 6);
+}

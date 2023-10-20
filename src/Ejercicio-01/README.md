@@ -26,16 +26,16 @@ En este ejercicio, creamos un documento HTML con tres párrafos y aplicamos dife
 ```css
 /* Estilos para el primer párrafo */
 p {
-  background-color: lightblue;
+  background-color: RED;
 }
 
 /* Estilos para el segundo párrafo con la clase "destacado" */
 .destacado {
-  border: 2px solid red;
+  border: 3px solid BLACK;
 }
 
 /* Estilos para el párrafo con el ID "parrafo-grande" */
 #parrafo-grande {
-  font-size: 24px;
+  font-size: 30px;
 }
 ```

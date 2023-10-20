@@ -1,0 +1,36 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #b40aa0;
+    transition: background-color 1s;
+  }
+  
+
+.box:hover {
+    background-color: #9b00b3;
+  }
+
+  @keyframes slideRight {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(200px);
+    }
+  }
+  
+    @keyframes colorChange {
+    0% {
+      background-color: #007bff;
+    }
+    50% {
+      background-color: #4e00b3;
+    }
+    100% {
+      background-color: #d409f8;
+    }
+  }
+  
+.box {
+    animation: slideRight 2s infinite alternate, colorChange 5s infinite;
+  }

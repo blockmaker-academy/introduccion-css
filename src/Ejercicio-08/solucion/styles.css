@@ -6,7 +6,7 @@
     border: 2px solid black;
     margin-bottom: 30px;
     /* Imagen de fondo */ 
-    background-image: url('ainoha.jpg');
+    background-image: url('imagen.jpg');
     /* Repetir la imagen vertical y horizontalmente */
     background-repeat: repeat;
     /* Posición de la imagen */

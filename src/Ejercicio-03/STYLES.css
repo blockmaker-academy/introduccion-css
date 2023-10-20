@@ -1,0 +1,9 @@
+.box {
+    width: 250px;
+    height: 150px;
+    padding: 30px;
+    border: 5px solid black;
+    margin-bottom: 30px;
+    color-interpolation-filters: red;
+    background-color: aquamarine;
+  }
