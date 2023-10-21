@@ -23,8 +23,6 @@ El repositorio está organizado de la siguiente manera:
 
 ## Ejercicios Incluidos
 
-A continuación, te presento una lista de los ejercicios disponibles en este repositorio:
-
 1. **Selectores CSS**: Aprende a aplicar estilos a elementos específicos utilizando diferentes tipos de selectores en CSS.
 
 2. **Diseño de Cajas (Box Model)**: Practica la manipulación de la caja que rodea cada elemento HTML, controlando propiedades como el ancho, alto, margen y relleno.
