@@ -1,8 +1,10 @@
 /* Estilos para el contenedor */
 .box {
-  width: 200px;
-  height: 100px;
-  padding: 20px;
-  border: 2px solid black;
+  width: 250px;
+  height: 150px;
+  padding: 30px;
+  border: 5px solid black;
   margin-bottom: 30px;
 }
+
+

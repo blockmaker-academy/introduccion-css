@@ -50,3 +50,4 @@ El repositorio está organizado de la siguiente manera:
 ## ¡Comienza tu Aventura en CSS!
 
 Te animamos a sumergirte en estos ejercicios y a medida que avances, ganarás confianza en tus habilidades para diseñar y estilizar contenido web. Cada ejercicio te proporcionará una base sólida para comprender los conceptos clave de CSS y cómo aplicarlos en la creación de sitios web impresionantes. ¡Diviértete aprendiendo y construyendo con CSS!
+# introduccion-css-RESUELTO-

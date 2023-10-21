@@ -1,0 +1,12 @@
+
+.box {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 20px rgba(121, 8, 8, 0.3);
+  }
+  .box p {
+    text-shadow: 5px 5px 10px rgba(148, 7, 7, 0.5);
+  }

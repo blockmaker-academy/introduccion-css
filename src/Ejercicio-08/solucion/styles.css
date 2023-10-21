@@ -5,8 +5,8 @@
     padding: 20px;
     border: 2px solid black;
     margin-bottom: 30px;
-    /* Imagen de fondo */
-    background-image: url('background-image.jpg');
+    /* Imagen de fondo */ 
+    background-image: url('imagen.jpg');
     /* Repetir la imagen vertical y horizontalmente */
     background-repeat: repeat;
     /* Posición de la imagen */
@@ -14,3 +14,9 @@
     /* Tamaño de la imagen */
     background-size: cover;
   }
+
+
+  
+
+
+

@@ -1,0 +1,20 @@
+.box {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid rgb(161, 31, 133);
+    margin-bottom: 20px;
+    box-shadow: 10px solid rgb(13, 13, 13);
+}
+.box p:first-child {
+    font-size: 2em;
+}
+.box p:nth-child(2) {
+    font-size: 4rem;
+} 
+.box p:nth-child(3) {
+    font-size: 6vw;  
+}  
+.box p:nth-child(4) {
+    font-size: 10vh;    
+}

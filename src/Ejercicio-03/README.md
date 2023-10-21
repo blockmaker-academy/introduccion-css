@@ -35,10 +35,10 @@ En este ejercicio, creamos un contenedor rectangular (div) con un texto dentro y
 /* styles.css */
 /* Estilos para el contenedor */
 .box {
-  width: 200px;
-  height: 100px;
+  width: 300px;
+  height: 150px;
   padding: 20px;
-  border: 2px solid black;
+  border: 5px solid black;
   margin-bottom: 30px;
 }
 ```
